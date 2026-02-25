@@ -16,17 +16,17 @@ If the book helped you squash a bug, understand a tricky concept, or advance in 
 
 This book has been translated into several language versions, including:
 
-[Chinese](https://github.com/gibbok/typescript-book/blob/main/README-zh_CN.md)
+[Chinese](https://github.com/Unity-Billal-mesloub/typescript-book/blob/main/README-zh_CN.md)
 
-[Italian](https://github.com/gibbok/typescript-book/blob/main/README-it_IT.md)
+[Italian](https://github.com/Unity-Billal-mesloub/typescript-book/blob/main/README-it_IT.md)
 
-[Portuguese (Brazil)](https://github.com/gibbok/typescript-book/blob/main/README-pt_BR.md)
+[Portuguese (Brazil)](https://github.com/Unity-Billal-mesloub/typescript-book/blob/main/README-pt_BR.md)
 
 ## Downloads and website
 
 You can also download the Epub version:
 
-[https://github.com/gibbok/typescript-book/tree/main/downloads](https://github.com/gibbok/typescript-book/tree/main/downloads)
+[https://github.com/gibbok/typescript-book/tree/main/downloads](https://github.com/Unity-Billal-mesloub/typescript-book/tree/main/downloads)
 
 An online version is available at:
 
@@ -260,7 +260,7 @@ Simone Poggiali is an experienced Staff Engineer with a passion for writing prof
 You can reach Simone Poggiali on the following platforms:
 
 * LinkedIn: [https://www.linkedin.com/in/simone-poggiali](https://www.linkedin.com/in/simone-poggiali)
-* GitHub: [https://github.com/gibbok](https://github.com/gibbok)
+* GitHub: [https://github.com/Unity-Billal-mesloub](https://github.com/Unity-Billal-mesloub)
 * X.com: [https://x.com/gibbok_coding](https://x.com/gibbok_coding)
 * Email: gibbok.coding📧gmail.com
 
@@ -672,7 +672,7 @@ Developers can leverage a dedicated API and create their own custom language ser
 An example of a real-world custom plugin is "typescript-styled-plugin", which provides syntax error reporting and IntelliSense support for CSS properties in styled components.
 <!-- markdownlint-enable MD044 -->
 
-For more information and quick start guides, you can refer to the official TypeScript Wiki on GitHub: [https://github.com/microsoft/TypeScript/wiki/](https://github.com/microsoft/TypeScript/wiki/)
+For more information and quick start guides, you can refer to the official TypeScript Wiki on GitHub: [https://github.com/microsoft/TypeScript/wiki/](https://github.com/Unity-Billal-mesloub/TypeScript/wiki/)
 
 ### Structural Typing
 
