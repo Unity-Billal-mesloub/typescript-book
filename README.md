@@ -1142,7 +1142,7 @@ It is worth noting that when using a type assertion, TypeScript will not execute
 Ambient declarations are files that describe types for JavaScript code, they have a file name format as `.d.ts.`. They are usually imported and used to annotate existing JavaScript libraries or to add types to existing JS files in your project.
 
 Many common libraries types can be found at:
-[https://github.com/DefinitelyTyped/DefinitelyTyped/](https://github.com/DefinitelyTyped/DefinitelyTyped/)
+[https://github.com/DefinitelyTyped/DefinitelyTyped/](https://github.com/Unity-Billal-mesloub/DefinitelyTyped/)
 
 and can be installed using:
 
